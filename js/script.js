@@ -7,3 +7,9 @@ text = text.replace('Velociraptor', dinosaur);
 console.log(text.slice(0, text.length/2));
 
 
+//Ninja code :)
+
+console.log(text.replace('Velociraptor', 'triceratops'.toLocaleUpperCase())
+                .slice(0, text.length/2));
+
+
